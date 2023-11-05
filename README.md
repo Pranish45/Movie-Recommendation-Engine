@@ -1,3 +1,4 @@
 # Movie-Recommendation-Engine
 A movie recommendation engine project is a data-driven application that leverages machine learning and data analysis techniques to suggest movies to users based on their preferences and viewing history. These systems are widely used by streaming platforms like Netflix, Amazon Prime, and Hulu to enhance user engagement and satisfaction.
 The dataset that I have used is all about hollywood movies of nearly 5000 data entries. 
+A movie recommendation engine is designed to provide personalized movie suggestions to users, making it easier for them to discover new content that aligns with their interests and preferences. The system typically relies on a combination of user data, movie data, and various recommendation algorithms to generate suggestions. The goal is to enhance user satisfaction and keep them engaged with the platform.
